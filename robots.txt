@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machinelearningpy123.github.io/send-files-to-tv-apk/sitemap.xml
